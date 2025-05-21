@@ -1,7 +1,7 @@
 # Lead Magnet Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/yourusername/lead-magnet-generator/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/sagarseoorb/AMB-Lead-Magnet/releases/tag/v1.0.0)
 
 A professional web application for creating, designing, and exporting high-quality social media content and lead magnets in various formats.
 
@@ -48,4 +48,4 @@ A professional web application for creating, designing, and exporting high-quali
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lead-magnet-generator.git
+   git clone https://github.com/sagarseoorb/AMB-Lead-Magnet.git
